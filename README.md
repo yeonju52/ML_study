@@ -13,7 +13,7 @@
 >  - [3 / 3](https://www.youtube.com/watch?v=FAP7JOECfEE)
 
 ## 2. 자전거 수요 예측 문제 (회귀)
-> [Kaggle](https://www.kaggle.com/c/bike-sharing-demand)
+> -  [Kaggle](https://www.kaggle.com/c/bike-sharing-demand)
 
 > Youtube 강의
 >  - [1 / 4](https://www.youtube.com/watch?v=Q_MbN-vu_2w)
