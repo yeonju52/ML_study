@@ -6,7 +6,7 @@
 ## 1. 타이타닉 생존자 예측 문제 (이진 분류)
 >  - Kaggle: https://www.kaggle.com/c/titanic
 
-> Youtube 강의 \
+> Youtube 강의
 >  - https://www.youtube.com/watch?v=aqp_9HV58Ls (1/3) \
 >  - https://www.youtube.com/watch?v=nXFXAxfdIls (2/3) \
 >  - https://www.youtube.com/watch?v=FAP7JOECfEE (3/3) \
@@ -14,7 +14,7 @@
 ## 2. 자전거 수요 예측 문제 (회귀)
 > Kaggle: https://www.kaggle.com/c/bike-sharing-demand
 
-> Youtube 강의 \
+> Youtube 강의
 >  - https://www.youtube.com/watch?v=Q_MbN-vu_2w (1/4) \
 >  - https://www.youtube.com/watch?v=95fCw-n5uWM (2/4) \
 >  - https://www.youtube.com/watch?v=g7EwIFXJntc (3/4) \
