@@ -1,22 +1,22 @@
 # 2021 Machine Learning Group Study
 
-## 4주차 의사결정 나무 Decision Tree (21.02.17)
+# 4주차 의사결정 나무 Decision Tree (21.02.17)
 
-# 발표자
+## 발표자
   
   전반부 (4.1 기본 프로세스, 4.2 분할 선택): 이연주
   
   후반부 (4.3 가지치기, 4.4 연속값과 결측값, 4.5 다변량 의사결정트리): 지승원
 
 
-# 캐글 예제
+## 캐글 예제
   
   Subject: 와인 품종 분류하기 (https://www.kaggle.com/c/wine-quality-decision-tree)
   
   Solution: 'ml-study/머신러닝/0.4 의사결정 트리/'에 업로드되어 있습니다.
 
 
-# 발표 
+## 발표 
 
 발표자료는 github에 업로드되어 있습니다. 밑에 링크를 첨부합니다.
 
@@ -30,7 +30,7 @@ https://github.com/dannylisa/ml-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8
 
 
 
-# 발표 영상
+## 발표 영상
 
 스터디에 참여하지 못하신 분들을 위해 발표를 녹화했습니다.
 
