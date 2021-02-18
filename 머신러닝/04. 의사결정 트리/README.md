@@ -1,6 +1,6 @@
 # 2021 Machine Learning Group Study
 
-## 4W 의사결정 나무 Decision Tree (21.02.17)
+## 4주차 의사결정 나무 Decision Tree (21.02.17)
 
 ### 발표자
 전반부 (4.1 기본 프로세스, 4.2 분할 선택): 이연주
