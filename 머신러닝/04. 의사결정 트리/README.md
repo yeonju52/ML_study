@@ -30,10 +30,14 @@ https://github.com/dannylisa/ml-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8
 
 
 
-*스터디에 참여하지 못하신 분들을 위해 발표를 녹화했습니다.
+# 발표 영상
+
+스터디에 참여하지 못하신 분들을 위해 발표를 녹화했습니다.
 
 [유튜브 주소] (https://youtu.be/N0AoYjVzcMw)
 
 *정정 사항이 있으니 '유튜브 댓글' 확인 부탁드립니다!
+
+
 
 > 남은 스터디 활동도 화이팅 합시다!
