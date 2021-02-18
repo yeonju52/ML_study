@@ -36,7 +36,7 @@ https://github.com/dannylisa/ml-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8
 
 [유튜브 주소] (https://youtu.be/N0AoYjVzcMw)
 
-* *정정 사항이 있으니 '유튜브 댓글' 확인 부탁드립니다!
+* 정정 사항이 있으니 '유튜브 댓글' 확인 부탁드립니다!
 
 
 
