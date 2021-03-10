@@ -15,6 +15,9 @@
        * https://github.com/JustGlowing/minisom/blob/master/examples/BasicUsage.ipynb 코드 따라서 
          SOM 신경망 코드 구현해보기
       
+## 발표 자료
+ 
+   ML_study/머신러닝/05.신경망/lecture에 업로드 할 예정입니다!
    
 
 
